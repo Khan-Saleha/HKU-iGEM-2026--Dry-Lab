@@ -1,6 +1,6 @@
 # HKU-iGEM-2026--Dry-Lab
 
-#Section 1.1: Upstream Wound Bed Generation Kinetics (Model 1A)
+Section 1.1: Upstream Wound Bed Generation Kinetics (Model 1A)
 This section models how the inflammation status drives the baseline Nitric Oxide (NO) concentration entering the patch. Shows the model links variations in patient wound severity.
 #Plot 1: Inflammation-Driven NO Generation Curve 
 What it shows: How tissue inflammation scales up steady-state wound NO via macrophage recruitment.
